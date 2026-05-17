@@ -1,2 +1,3 @@
 # CRUD
-Practica de CRUD con PHP y Mysql
+
+Simple PHP CRUD application for user management.
